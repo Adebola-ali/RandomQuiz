@@ -1,0 +1,33 @@
+.questionBody {
+  margin-top: 50px;
+}
+
+.questionBtn {
+  background-color: white;
+    border-style: solid;
+    border: 1px solid rgb(0, 164, 139);
+    color: rgb(0, 164, 139);
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.15s,
+    color 0.15s;
+    padding: 9px 16px 9px 16px;
+    vertical-align: top;
+    margin-top: 15px;
+}
+
+.questionBtn:hover {
+    background-color: rgb(115, 230, 213);
+    color: white;
+}
+
+.questionLabel {
+  color: black;
+  display: block;
+  text-align: left;
+  padding: 15px;
+  margin-bottom: 5px;
+  font-size: 20px;
+  background-color: white;
+  padding: 20px 10px 20px 20px;
+ }

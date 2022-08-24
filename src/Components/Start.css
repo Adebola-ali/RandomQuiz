@@ -1,0 +1,33 @@
+.start {
+  margin-top: 50px;
+  text-align: center;
+  letter-spacing: 5px;
+}
+
+h1 {
+  font-size: 30px;
+  line-height: 40px;
+}
+
+.startBtn {
+  padding: 10px 20px 10px 20px;
+  border: 1px solid whitesmoke;
+  background-color:rgb(242, 78, 105);
+  color: white;
+  margin-top: 20px;
+  border-radius: 5px;
+  font-size: larger;
+  letter-spacing: 2px;
+  cursor: pointer;
+
+}
+
+.startBtn:hover {
+  border: none;
+  background-color:white;
+  color: rgb(235, 62, 91);
+}
+
+p {
+  font-size: 15px;
+}
